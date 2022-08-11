@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AdditionalPatterns\Mvc\" />
+    <Folder Include="AdditionalPatterns\AsynchronousPatterns\" />
+    <Folder Include="AdditionalPatterns\NullObject\" />
+    <Folder Include="AdditionalPatterns\SimpleFactory\" />
+    <Folder Include="BehavioralPatterns\ChainOfResponsibility\" />
+    <Folder Include="BehavioralPatterns\Command\" />
+    <Folder Include="BehavioralPatterns\Iterator\" />
+    <Folder Include="BehavioralPatterns\Mediator\" />
+    <Folder Include="BehavioralPatterns\Memento\" />
+    <Folder Include="BehavioralPatterns\Visitor\" />
+    <Folder Include="BehavioralPatterns\TemplateMethod\" />
+    <Folder Include="BehavioralPatterns\Strategy\" />
+    <Folder Include="BehavioralPatterns\State\" />
+    <Folder Include="BehavioralPatterns\Observer\" />
+    <Folder Include="CreationalPatterns\FactoryMethod\" />
+    <Folder Include="CreationalPatterns\AbstractFactory\" />
+    <Folder Include="CreationalPatterns\Builder\" />
+    <Folder Include="CreationalPatterns\Singleton\" />
+    <Folder Include="CreationalPatterns\Prototype\" />
+    <Folder Include="StructuralPatterns\Adapter\" />
+    <Folder Include="StructuralPatterns\Bridge\" />
+    <Folder Include="StructuralPatterns\Composite\" />
+    <Folder Include="StructuralPatterns\Decorator\" />
+    <Folder Include="StructuralPatterns\Facade\" />
+    <Folder Include="StructuralPatterns\Flyweight\" />
+    <Folder Include="StructuralPatterns\Proxy\" />
+  </ItemGroup>
+
+</Project>

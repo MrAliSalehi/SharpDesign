@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpDesign", "SharpDesign.csproj", "{04C989CD-0C1E-4CB2-9D2D-088D75E4E13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C989CD-0C1E-4CB2-9D2D-088D75E4E13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C989CD-0C1E-4CB2-9D2D-088D75E4E13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C989CD-0C1E-4CB2-9D2D-088D75E4E13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C989CD-0C1E-4CB2-9D2D-088D75E4E13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E07387-4E98-4F4F-9EEA-B17A25022878}
+	EndGlobalSection
+EndGlobal
