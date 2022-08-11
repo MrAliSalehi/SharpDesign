@@ -22,7 +22,6 @@
     <Folder Include="BehavioralPatterns\Strategy\" />
     <Folder Include="BehavioralPatterns\State\" />
     <Folder Include="BehavioralPatterns\Observer\" />
-    <Folder Include="CreationalPatterns\FactoryMethod\" />
     <Folder Include="CreationalPatterns\AbstractFactory\" />
     <Folder Include="CreationalPatterns\Builder\" />
     <Folder Include="StructuralPatterns\Composite\" />

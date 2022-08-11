@@ -1,4 +1,5 @@
-﻿using SharpDesign.CreationalPatterns.Prototype;
+﻿
+using SharpDesign.CreationalPatterns.FactoryMethod;
 
 namespace SharpDesign
 {
@@ -7,9 +8,9 @@ namespace SharpDesign
         private static void Main()
         {
 
-            var prototype = new UsePrototype();
+            var prototype = new UseFactoryMethod();
 
-            prototype.PrototypeInAction();
+            prototype.FactoryMethodInAction();
 
             Console.ReadKey();
         }

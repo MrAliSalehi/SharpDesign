@@ -1,7 +1,7 @@
 ﻿using SharpDesign.CreationalPatterns.Prototype.Implementation;
 
 namespace SharpDesign.CreationalPatterns.Prototype;
-
+//todo finish the docs
 internal class UsePrototype
 {
     public void PrototypeInAction()
