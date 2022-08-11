@@ -25,7 +25,6 @@
     <Folder Include="CreationalPatterns\FactoryMethod\" />
     <Folder Include="CreationalPatterns\AbstractFactory\" />
     <Folder Include="CreationalPatterns\Builder\" />
-    <Folder Include="CreationalPatterns\Singleton\Implementation\" />
     <Folder Include="StructuralPatterns\Composite\" />
     <Folder Include="StructuralPatterns\Decorator\" />
     <Folder Include="StructuralPatterns\Facade\" />
