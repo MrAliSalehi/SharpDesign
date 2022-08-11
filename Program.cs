@@ -1,10 +1,17 @@
-﻿namespace SharpDesign
+﻿using SharpDesign.CreationalPatterns.Prototype;
+
+namespace SharpDesign
 {
     internal static class Program
     {
         private static void Main()
         {
-            Console.WriteLine("Hello, World!");
+
+            var prototype = new UsePrototype();
+
+            prototype.PrototypeInAction();
+
+            Console.ReadKey();
         }
     }
 }
