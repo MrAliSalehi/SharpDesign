@@ -27,8 +27,6 @@
     <Folder Include="CreationalPatterns\Builder\" />
     <Folder Include="CreationalPatterns\Singleton\" />
     <Folder Include="CreationalPatterns\Prototype\" />
-    <Folder Include="StructuralPatterns\Adapter\" />
-    <Folder Include="StructuralPatterns\Bridge\" />
     <Folder Include="StructuralPatterns\Composite\" />
     <Folder Include="StructuralPatterns\Decorator\" />
     <Folder Include="StructuralPatterns\Facade\" />
