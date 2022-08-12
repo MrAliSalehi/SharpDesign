@@ -3,7 +3,7 @@
 ## [Implementation](./Implementation/AnimalFactory.cs) And [How To Use](./UseFactoryMethod.cs)
 
 
-**`GOF:`**
+### **`GOF:`**
 
 تعریف یک اینترفیس برای ساخت ابجکت
 
@@ -11,7 +11,9 @@
 
 این متود به کلاس ها اجازه میدهد که نمونه سازی را به کلاس های زیرین واگذار کنید
 
-**`Concept:`**
+##
+
+### **`Concept:`**
 
 با یک کلاسه
 
