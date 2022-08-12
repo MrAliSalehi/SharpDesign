@@ -1,6 +1,7 @@
 ﻿## Builder Design Pattern
 
-## [Implementation](./Implementation/IBuilder.cs) And [How To Use](./UseBuilder.cs)
+## [Implementation](./Implementation/IBuilder.cs)-[Best Practice](./BestPractice) And [How To Use](./UseBuilder.cs)
+ 
 
 
 ### **`GOF:`**
@@ -28,7 +29,7 @@
 
 اشکال مختلفی از ابجکت را به دست بیارید
 
-![Builder Relations](../../Images/builder_1.svg.png "Relations In This Pattern Accoding To GOF")
+![Builder Relations](../../Images/builder_1.png "Relations In This Pattern Accoding To GOF")
 
 
 همونطور که در تصویر میبینید 
@@ -77,3 +78,39 @@
 و فروشنده یا کسی که قطعات را سرهم میکند درواقع همان 
 
 `ConcreteBuilder` میباشد
+
+
+# FAQ 
+
+**> مزایای استفاده از این پترن**
+
+- یک فرایند ساخت ثابت میتواند محصولات مختلفی اراعه بدهد
+- میتوانید شکل داخلی محصول را تعقیر دهید
+- در سطح بالای کد شما فقط یک متود دارید که میتواند یک محصول کامل تولید کنید و تمام پیچیدگی های ابجکت را مخفی میکنید
+
+##
+
+**> اشکالات مربوط به این پترن**
+
+-  `mutable objects` ناسازگار با
+- ممکن است مجبور شوید بعضی قسمت های کد رو تکرار کنید که خب اتفاق چندان جالبی نیست
+-  `ConcreteBuilder` ساخت تعداد زیادی کلاس
+(برای هر تایپ از ابجکت باید یک کلاس جدا بسازید)
+
+##
+**> abstract class or interface?**
+
+میتونید از هر دو مدل برای تعریف این پترن استفاده کنید بستگی به نیاز های خودتون داره
+
+##
+
+**> Director**
+
+استفاده از این کلاس هم اپشنال هستش
+
+تمام کدهای این کلاس میتونه مستقیما توی کد های کلاینت قرار بگیره
+
+*(منظور از کلاینت در اینجا قسمتی از کد هست که در حال استفاده از این پترن یا سیستم میباشد)*
+
+##
+

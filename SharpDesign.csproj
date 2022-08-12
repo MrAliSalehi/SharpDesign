@@ -23,6 +23,7 @@
     <Folder Include="BehavioralPatterns\State\" />
     <Folder Include="BehavioralPatterns\Observer\" />
     <Folder Include="CreationalPatterns\AbstractFactory\Implementation\" />
+    <Folder Include="CreationalPatterns\Builder\BestPractice\" />
     <Folder Include="StructuralPatterns\Composite\" />
     <Folder Include="StructuralPatterns\Decorator\" />
     <Folder Include="StructuralPatterns\Facade\" />
