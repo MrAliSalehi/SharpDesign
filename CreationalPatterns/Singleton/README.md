@@ -2,12 +2,12 @@
 
 ## [Implementation](./Implementation/Singleton.cs) And [How To Use](./UseSingleton.cs)
 
-`GOF:`
+**`GOF:`**
 
 **مطمعن میشود تنها یک نسخه از کلاس وجود دارد،و یک نقطه دسترسی به صورت عمومی اراعه میدهد**
 
 
-`Concept:`
+**`Concept:`**
 
 فرض کنید کلاسی به نام الف دارید و باید یک نسخه از آن بسازید.
 

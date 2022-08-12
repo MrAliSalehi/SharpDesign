@@ -4,4 +4,4 @@
 
 ## 2. **[Prototype](./Prototype/README.md)**
 
-
+## 3. **[Factory-Method](./FactoryMethod/README.md)**

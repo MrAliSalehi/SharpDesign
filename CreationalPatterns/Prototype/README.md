@@ -3,14 +3,14 @@
 ## [Implementation](./Implementation/AnimalBase.cs) And [How To Use](./UsePrototype.cs)
 
 
-`GOF:`
+**`GOF:`**
 
 مشخص کردن نوع ابجکتی که قصد ساخت ان را داریم
 
 به وسیله کپی کردنه یک نمونه اولیه  
 
 
-`Concept:`
+**`Concept:`**
 
 
 این پترن یک راه جدید برای نمونه سازی از ابجکت ها به وصیله کلون کردن ان ها اراعه میدهد
