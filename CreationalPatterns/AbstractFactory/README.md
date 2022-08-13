@@ -36,3 +36,20 @@
 ![Abstract Factory](../../Images/AbstractFactory.png)
 
 # FAQ 
+
+**`> FactoryProvider`**
+
+ساخت این کلاس الزامی نیست و میتونید مستقیم از فکتوری هاتون استفاده کنید
+
+##
+
+**> سختی های استفاده از این پترن**
+
+هر تعقیر در 
+`abstract factory`
+
+شمارو مجاب به تعقیر سایر فکتوری ها میکنه
+
+یکی از مهمترین کلید های این پترن 
+
+*Program an Interface, But Not To An Implementation*
