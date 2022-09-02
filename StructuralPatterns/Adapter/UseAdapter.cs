@@ -9,7 +9,7 @@ public class UseAdapter
         var rectangle = new Rectangle(15, 69);
         Console.WriteLine($"Area of {nameof(Rectangle)} was: {rectangle.CalcArea()}");
 
-        var triangle = new Triangle(69, 4);
+        var triangle = new Triangle(15, 69);
         Console.WriteLine($"Area of {nameof(Triangle)} was: {triangle.CalcAreaTriangle()}");
 
         var adapter = new RectAdapter(triangle);
