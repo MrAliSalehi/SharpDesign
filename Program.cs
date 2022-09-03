@@ -1,6 +1,4 @@
-﻿
-using SharpDesign.CreationalPatterns.AbstractFactory;
-using SharpDesign.StructuralPatterns.Adapter;
+﻿using SharpDesign.StructuralPatterns.Bridge;
 
 namespace SharpDesign
 {
@@ -8,11 +6,7 @@ namespace SharpDesign
     {
         private static void Main()
         {
-
-            var prototype = new UseAdapter();
-
-            prototype.AdapterInAction();
-
+            UseBridge.BridgeInAction();
             Console.ReadKey();
         }
     }
