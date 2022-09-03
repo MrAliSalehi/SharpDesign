@@ -50,19 +50,17 @@
  * پیاده سازی به کلاس ابسترکت مقید نیست
  * هردو بخش پیاده سازی و کلاس چکیده بدونه میتونن جدا از هم توسعه داده بشن
 
-<div dir="rtl">
 
-کلاس concrete به صورت مستقل از اینترفیس implementor کار میکند.
+> کلاس concrete به صورت مستقل از اینترفیس implementor کار میکند.
 
 
-implementor در مثال بیمارستان در واقع **[DoctorType](./Implementation/IDoctorType.cs)** هست 
+کلاسimplementor در مثال بیمارستان در واقع **[DoctorType](./Implementation/IDoctorType.cs)** هست 
 
-concrete هم همان کلاس های **[BrainDoctor](./Implementation/BrainDoctor.cs)** 
+کلاس concrete هم همان کلاس های **[BrainDoctor](./Implementation/BrainDoctor.cs)** 
   و **[HeartDoctor](./Implementation/HeartDoctor.cs)** هستند.
 
-(concrete/کلاسی که چکیده را پیاده میکند)
+`(concrete/کلاسی که چکیده را پیاده میکند)`
 
-</div>
 
 ##
 
