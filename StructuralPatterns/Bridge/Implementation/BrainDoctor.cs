@@ -7,6 +7,11 @@ public class BrainDoctor: HospitalDoctors
         this.DoctorName = doctorName;
         this.DoctorType = doctorType;
     }
+
+    public void NeedMoreMoney()
+    {
+        Console.WriteLine("Got More Money One This Doc..");
+    }
     public override void Details()
     {
         DoctorType.PrintDoctorDetails(DoctorName);
