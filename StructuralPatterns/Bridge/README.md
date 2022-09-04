@@ -1,6 +1,6 @@
 ﻿## Bridge Design Pattern
 
-## [Implementation](./Implementation/.cs) And [How To Use](./UseBridge.cs)
+## [Implementation](./Implementation) And [How To Use](./UseBridge.cs)
 
 
 ### **`GOF:`**
