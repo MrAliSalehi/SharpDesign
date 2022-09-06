@@ -1,6 +1,6 @@
 ﻿## Facade Design Pattern
 
-## [Implementation](./Implementation/.cs) And [How To Use](./UseFacade.cs)
+## [Implementation](./Implementation/PcBuilderFacade.cs) And [How To Use](./UseFacade.cs)
 
 
 ### **`GOF:`**
