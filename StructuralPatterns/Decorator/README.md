@@ -1,6 +1,6 @@
 ﻿## Decorator Design Pattern
 
-## [Implementation](./Implementation/BaseDecorator.cs) And [How To Use](./UseDecorator.cs.cs)
+## [Implementation](./Implementation/BaseDecorator.cs) And [How To Use](./UseDecorator.cs)
 
 
 ### **`GOF:`**
