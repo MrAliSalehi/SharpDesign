@@ -4,10 +4,12 @@
 
 ## 2. **[Bridge](./Bridge/README.md)**
 
-## 3. **[Composite](./Composite/README.md)**
+## 4. **[Composite](./Composite/README.md)**
 
-## 3. **[Decorator](./Decorator/README.md)**
+## 5. **[Decorator](./Decorator/README.md)**
 
-## 3. **[Facade](./Facade/README.md)**
+## 6. **[Facade](./Facade/README.md)**
 
-## 3. **[Flyweight](./Flyweight/README.md)**
+## 7. **[Flyweight](./Flyweight/README.md)**
+
+## 8. **[Proxy](./Proxy/README.md)**
