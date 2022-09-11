@@ -16,5 +16,12 @@ public static class UseProxy
         var proxy = new LoginProxy(login);
         proxy.Login("reza1234");
         proxy.Login("admin");
+        
+        //or
+
+        Console.WriteLine("\nwithout passing the login object...");
+        var proxy2 = new LoginProxy();
+        proxy2.Login("admin");
+        proxy2.Login("hashem2332");
     }
 }
