@@ -1,6 +1,6 @@
 ﻿## Proxy Design Pattern
 
-## [Implementation](./Implementation/.cs) And [How To Use](./UseProxy.cs)
+## [Implementation](./Implementation/LoginProxy.cs) And [How To Use](./UseProxy.cs)
 
 
 ### **`GOF:`**
